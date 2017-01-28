@@ -27,3 +27,7 @@ aldeed:schema-index
 iron:router
 duongthienduc:meteor-winston
 momentjs:moment
+simple:reactive-method
+perak:c3
+meteorhacks:async
+aldeed:tabular
